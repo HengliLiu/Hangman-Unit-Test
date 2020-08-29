@@ -1,0 +1,5 @@
+1.One word will be generated randomly 
+2.Player will be presented with a number of blank spaces representing the missing letters the player needs to find.     
+3.If the player’s chosen letter exists in the answer, then all places in the answer where that letter appear will be revealed.
+4.Every time the player guesses a letter wrong, the player’s life will be deducted.
+The player must find the missing word before the player’s life becomes zero.
